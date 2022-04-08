@@ -19,4 +19,4 @@ all they need to know. The comments should usually include at least:
 ![image](/images/I5.png)
 
 ## I HAVE ADDED MY GITHUB LINK JUST INCASE YOU WANT TO TAKE A LOOK ON THE SOURCES IF ITS NOT OPENING !
-https://github.com/JheelShah/cpu-schedule
+https://github.com/JheelShah/cpu-scheduler
