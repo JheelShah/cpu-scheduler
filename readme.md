@@ -14,6 +14,6 @@ all they need to know. The comments should usually include at least:
 ![image](/images/I2.png)
 ##3   Add Quantum time
 ![image](/images/I3.png)
-##    Hit enter and get the result for the file.
+##4    Hit enter and get the result for the file.
 ![image](/images/I4.png)
 ![image](/images/I5.png)
