@@ -11,4 +11,4 @@ all they need to know. The comments should usually include at least:
 ## AUTHORS: Jheel Shah
 ## USER INSTRUCTIONS:
 
-![image](/images/I1)
+![image](/images/I1.png)
